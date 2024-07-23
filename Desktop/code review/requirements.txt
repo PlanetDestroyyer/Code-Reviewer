@@ -1,5 +1,0 @@
-fastapi
-langchain_community
-nest_asyncio
-pydantic
-uvicorn
